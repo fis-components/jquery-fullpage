@@ -1,6 +1,6 @@
 {
+    "version": "2.7.4",
     "repos": "https://github.com/alvarotrigo/fullPage.js.git",
-    "version": "2.6.9",
     "name": "jquery-fullpage",
     "main": "jquery.fullpage.js",
     "dependencies": {
